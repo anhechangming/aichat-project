@@ -14,4 +14,4 @@ knife4j:
           - com.cyd.aichat.controller
 
 ai:
-  apiKey: 433f9d65-06cc-4da3-8611-5a093118ee1d
+  apiKey:
